@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    margin: 0px auto;
+    box-sizing: border-box;
+}
+
+.container {
+    box-sizing: border-box;
+    padding: 10px;
+    height: 100%;
+}
+
+#mycanvas {
+    margin: auto;
+    display: block;
+    border: 1px solid #b6afaf;
+}
